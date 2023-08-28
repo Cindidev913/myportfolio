@@ -23,28 +23,28 @@ export default function About() {
       <div className="flex flex-row  gap-6 ml-8">
         <div className="flex-col mt-14 flex flex-auto w-64 gap-6">
           <h3 className="text-3xl font-medium" data-aos={"fade-left"}>
-            I'm <span className="text-yellow-600">Cindi Widiawati,</span> a Web
-            development
+            I'm <span className="text-yellow-600">Cindi Widiawati,</span> a Web Development
           </h3>
           <p
             className="pt-5 leading-7 text-slate-900 text-justify"
             data-aos={"fade-left"}
           >
-          I am a 5th semester student majoring in Informatics Management at the LP3I Bandung Polytechnic. I love technology and how to use it in business.
-          </p>
+            Hello! I'm Cindi Widiawati, a passionate and driven 5th-semester student pursuing a degree in Informatics Management at LP3I Bandung Polytechnic. I have a strong fascination for the dynamic world of technology and its transformative potential within the realm of business.
+           </p>
           <p
             className="text-justify leading-7 text-slate-900"
             data-aos={"fade-right"}
           >
-            In college, I learned about computers, how to program, and how to manage technology projects. I also learned about the importance of using technology safely. 
-          </p>
+            Beyond the classroom, I actively engage in enriching technology experiences on campus. I am an enthusiastic member of HIMAMI (Informatics Management Student Association) and ICON (Incredible Computer Nation). These platforms have allowed me to collaborate with like-minded individuals, learn from experts, and contribute to the ever-evolving tech landscape.
+
+         </p>
 
           <p
             className="text-justify leading-7 text-slate-900"
             data-aos={"fade-right"}
           >
-            I also take part in technology activities on campus, namely HIMAMI (Himpunan Mahasiswa Manajemen Informatika) and ICON (Incredible Computer Nation). I have a dream to work with information technology in companies and help them grow.
-        </p>
+            My aspiration is to translate my passion and skills into real-world impact. I envision myself as an integral part of innovative IT companies, where I can contribute to their success by leveraging technology to enhance efficiency, streamline processes, and foster growth. With dedication and a continuous thirst for knowledge, I'm excited to embark on a journey that merges my love for technology and my eagerness to make a meaningful difference.
+           </p>
         </div>
         
 

@@ -1,77 +1,81 @@
 export const projects = [
   {
-    title: "Plants vs Zombies API",
-    desc: "An API built with with NextTS and Tailwind CSS to help website builders build their websites about Plants-vs-Zombies-2 easily! Data has been scraped from fandom websites and all data are  error free",
+    title: "Material Cashier",
+    desc: "The material cashier web enables real-time stock monitoring, automated ordering, and demand analysis for efficient inventory management in businesses.",
     tags: [
       {
-        name: "NextTs",
+        name: "Laravel",
         color: "red-600",
       },
       {
-        name: "TailwindCSS",
-        color: "green-600",
-      },
-    ],
-    img: "../assets/images/kasir.png",
-    link: "https://pvz-2-api.vercel.app/",
-    code: "https://github.com/code-cracked/plants-vs-zombies-api",
-  },
-  {
-    title: "Web-Chat-App",
-    desc: "An app made with NextJs to help each other communicate fastly and securely. We can also search for the friends with their username.Realtime updates on messages.",
-    tags: [
-      {
-        name: "NextJs",
-        color: "red-600",
-      },
-      {
-        name: "ChakraUI",
+        name: "Bootstrap",
         color: "green-600",
       },
       {
-        name: "SocketIO",
-        color: "yellow-600",
-      },
-      {
-        name: "MongoDB",
+        name: "MySQL",
         color: "blue-800",
       },
     ],
-    img: "https://user-images.githubusercontent.com/88134306/227576773-06c3a1d2-0a1a-4ab2-8d1f-e06d71408410.png",
-    link: "https://web-chat-app-brown.vercel.app",
-    code: "https://github.com/daniel-jebarson/web-chat-app",
+    img: require("../assets/images/kasir.PNG"),
+    link: "https://github.com/Cindidev913/app-matrial",
+    code: "https://github.com/Cindidev913/app-matrial",
   },
   {
-    title: "Exploiter(deprecated)",
-    desc: "This is the simple multi-featured discord bot which is in more than 90+ servers that resembles lords mobile as mini game. It contains the featiures of many bots such as dyno,carl-bot,mee6 etc.It helps to authorize the users, audit the messages and can also be used for other server developments and also for mini-games.  ",
+    title: "Project Team Profile",
+    desc: "Memberikan informasi komprehensif tentang anggota tim, keahlian mereka, peran dalam proyek, serta menggalang kolaborasi dan komunikasi yang lebih baik di antara anggota tim dan pemangku kepentingan.",
     tags: [
       {
-        name: "Python",
+        name: "CodeIgniter",
         color: "red-600",
       },
       {
-        name: "Discord.py",
+        name: "CSS",
         color: "green-600",
       },
       {
-        name: "discord-interactions",
+        name: "Bootstrap",
         color: "yellow-600",
       },
       {
-        name: "Flask",
+        name: "MySQL",
         color: "blue-800",
       },
     ],
-    img: "https://cdn.discordapp.com/attachments/1096426516667174994/1109031291522928670/Exploiter.png",
+    img: require("../assets/images/profileteam.PNG"),
+    link: "https://github.com/Cindidev913/mtechno",
+    code: "https://github.com/Cindidev913/mtechno",
+  },
+  {
+    title: "Village Company Profile",
+    desc: "Providing comprehensive access to information regarding the profile, potential, resources, development, and services available in the village to the general public, government, and stakeholders in order to support development and active participation in the village's progress.",
+    tags: [
+      {
+        name: "HTML",
+        color: "red-600",
+      },
+      {
+        name: "CSS",
+        color: "green-600",
+      },
+      {
+        name: "JavaScript",
+        color: "yellow-600",
+      },
+      {
+        name: "Bootstrap",
+        color: "blue-800",
+      },
+    ],
+    img: require("../assets/images/desa.PNG"),
     link: "https://drive.google.com/file/d/1npEOuOhQh-1zRiLB9fFn-6ORTwd1gZkl/view",
     code: "https://github.com/daniel-jebarson/EXPLOITER",
   },
   {
-    title: "Stock Market",
-    desc: "Stock Market Website done with ReactJs as Frontend and Express as Backend. This websites gives practice for people those who want to start using stock market. It is based on realtime update of stock value.",
+    title: "Cafe Cashier",
+    desc: "Enabling customers to place food and beverage orders online and make payments through digital platforms, with the aim of enhancing customer convenience, operational efficiency, and tracking financial transactions within the cafe business.",
     tags: [
       {
-        name: "ReactJs",
+        name: "Laravel",
         color: "red-600",
       },
       {
@@ -83,24 +87,24 @@ export const projects = [
         color: "blue-800",
       },
     ],
-    img: "https://cdn.discordapp.com/attachments/1096426516667174994/1109032447783469097/image.png",
-    link: "https://stock-market-seven.vercel.app/",
-    code: "https://github.com/daniel-jebarson/Stock-Market",
+    img: require("../assets/images/cafecasir.PNG"),
+    link: "https://github.com/Cindidev913/cafekasir",
+    code: "https://github.com/Cindidev913/cafekasir",
   },
   {
-    title: "You-Farm",
-    desc: "An app made with NextJs, Machine Learning and ExpressJs to help farmers to sell their crops without intermediate. It also suggests which crops are needed for the specific soil.",
+    title: "School Seminar",
+    desc: "Serves to provide quick information about seminars and webinars held in the school, including schedules, topics, speakers, and registration, to support students and staff in participation and development.",
     tags: [
       {
-        name: "NextJs",
+        name: "HTML",
         color: "red-600",
       },
       {
-        name: "MaterialUI",
+        name: "CSS",
         color: "green-600",
       },
       {
-        name: "ExpressJs",
+        name: "JavaScript",
         color: "yellow-600",
       },
       {
@@ -112,8 +116,8 @@ export const projects = [
         color: "orange-600",
       },
     ],
-    img: "https://cdn.discordapp.com/attachments/1096426516667174994/1109035277814611978/Screenshot_19.png",
-    link: "https://github.com/code-cracked/you-farm",
-    code: "https://github.com/code-cracked/you-farm",
+    img: require("../assets/images/lpseminar.PNG"),
+    link: "https://github.com/Cindidev913/seminar",
+    code: "https://github.com/Cindidev913/seminar",
   },
 ];

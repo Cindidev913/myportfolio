@@ -29,12 +29,10 @@ export default function Resume() {
             Mobile Hacking
             </h3>
             <time class="block pt-1 pb-3  text-sm font-normal leading-none  text-gray-500">
-              19 Januari 2023
+            January 19, 2023
             </time>
             <p class="mb-4 text-base font-normal  text-gray-400">
-            Peretasan ponsel dapat membahayakan identitas dan privasi tanpa kita sadari. Peretas
-(hacker) terus mengembangkan dan meningkatkan metode peretasan, membuat mereka
-semakin sulit dikenali.
+            Phone hacking can jeopardize our identity and privacy without us realizing it. Hackers continually develop and enhance hacking methods, making them increasingly difficult to detect.
             </p>
             <a
               href={require("../../assets/files/mobilehacking.pdf")}
@@ -76,10 +74,10 @@ semakin sulit dikenali.
               Quarter Life Crisis
             </h3>
             <time class="block mb-2 text-sm font-normal leading-none text-gray-500">
-            26 November 2022
+            November 26, 2022
             </time>
             <p class="text-base font-normal text-gray-400">
-            Banyak orang merasa bingung tentang arah yang ingin mereka ambil dalam karier, hubungan, dan tujuan hidup mereka secara keseluruhan. Mengenal diri sendiri dengan baik dapat membantu mengatasi ketidakpastian dan menavigasi perubahan tersebut menuju kesuksesan dan kebahagiaan di masa depan.
+            Many people feel perplexed about the direction they want to take in their careers, relationships, and overall life goals. Getting to know oneself well can help overcome uncertainty and navigate these changes towards success and happiness in the future.
             </p>
             <a
               href={require("../../assets/files/qlc.pdf")}
@@ -121,10 +119,10 @@ semakin sulit dikenali.
               Leadership & Creative Thinking
             </h3>
             <time class="block mb-2 text-sm font-normal leading-none text-gray-500">
-              19 Maret 2022
+            March 19, 2022
             </time>
             <p class="text-base font-normal text-gray-400">
-            Ini menggabungkan konsep kepemimpinan, yang melibatkan kemampuan untuk memandu, memotivasi, dan mengarahkan tim atau kelompok menuju tujuan yang ditetapkan, dengan berpikir kreatif, yang melibatkan menghasilkan ide-ide baru, inovatif, dan tidak konvensional untuk memecahkan masalah atau menghasilkan solusi.
+            This combines the concept of leadership, involving the ability to guide, motivate, and direct teams or groups towards set goals, with creative thinking, which involves generating new, innovative, and unconventional ideas to solve problems or produce solutions.
             </p>
             <a
             href={require("../../assets/files/Leadership&.pdf")}
@@ -159,6 +157,7 @@ semakin sulit dikenali.
             <BarGraph name={"SQL"} percent={65} />
             <BarGraph name={"C#"} percent={40} />
             <BarGraph name={"Flutter"} percent={70} />
+            <BarGraph name={"Odoo"} percent={70} />
           </div>
 
           <a
