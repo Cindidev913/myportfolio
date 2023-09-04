@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Cindidev913/myportfolio/static/css/main.dffe8089.css",
+    "main.js": "/Cindidev913/myportfolio/static/js/main.9ad56fe6.js",
+    "static/js/787.b7af92ad.chunk.js": "/Cindidev913/myportfolio/static/js/787.b7af92ad.chunk.js",
+    "static/media/kasir.PNG": "/Cindidev913/myportfolio/static/media/kasir.592b6a089e6e6763b32f.PNG",
+    "static/media/desa.PNG": "/Cindidev913/myportfolio/static/media/desa.774c06e92aecd4f22535.PNG",
+    "static/media/profileteam.PNG": "/Cindidev913/myportfolio/static/media/profileteam.71a7afb3d05c1ca12236.PNG",
+    "static/media/CV Cindi.pdf": "/Cindidev913/myportfolio/static/media/CV Cindi.7c93b0310ac2dbcd6d4a.pdf",
+    "static/media/mobilehacking.pdf": "/Cindidev913/myportfolio/static/media/mobilehacking.4bd75ef8424b76d408c2.pdf",
+    "static/media/lpseminar.PNG": "/Cindidev913/myportfolio/static/media/lpseminar.9b121c55e9b72b7d62f4.PNG",
+    "static/media/Leadership&.pdf": "/Cindidev913/myportfolio/static/media/Leadership&.7176a3d931f988034aeb.pdf",
+    "static/media/qlc.pdf": "/Cindidev913/myportfolio/static/media/qlc.4f3f389472ba09fe8903.pdf",
+    "static/media/mixkit-fast-double-click-on-mouse-275.mp3": "/Cindidev913/myportfolio/static/media/mixkit-fast-double-click-on-mouse-275.e758e4b03a23060754fe.mp3",
+    "static/media/RobotoSlab-Black.ttf": "/Cindidev913/myportfolio/static/media/RobotoSlab-Black.b1eefbae7b352cda1c3a.ttf",
+    "static/media/RobotoSlab-Bold.ttf": "/Cindidev913/myportfolio/static/media/RobotoSlab-Bold.aea772dee2141c9b0792.ttf",
+    "static/media/RobotoSlab-Regular.ttf": "/Cindidev913/myportfolio/static/media/RobotoSlab-Regular.7ff9da9c484d15185b5b.ttf",
+    "static/media/GildaDisplay-Regular.ttf": "/Cindidev913/myportfolio/static/media/GildaDisplay-Regular.f712cdf2015640c8cc1e.ttf",
+    "static/media/cafecasir.PNG": "/Cindidev913/myportfolio/static/media/cafecasir.701613cd8e96362c7aa5.PNG",
+    "static/media/gotosite.webp": "/Cindidev913/myportfolio/static/media/gotosite.dc2459843a8d51a90e5d.webp",
+    "static/media/akuu.webp": "/Cindidev913/myportfolio/static/media/akuu.c2017bce5c111fd35730.webp",
+    "static/media/github.webp": "/Cindidev913/myportfolio/static/media/github.ed1c06d925fff0b57e32.webp",
+    "index.html": "/Cindidev913/myportfolio/index.html",
+    "main.dffe8089.css.map": "/Cindidev913/myportfolio/static/css/main.dffe8089.css.map",
+    "main.9ad56fe6.js.map": "/Cindidev913/myportfolio/static/js/main.9ad56fe6.js.map",
+    "787.b7af92ad.chunk.js.map": "/Cindidev913/myportfolio/static/js/787.b7af92ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dffe8089.css",
+    "static/js/main.9ad56fe6.js"
+  ]
+}
