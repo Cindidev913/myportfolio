@@ -67,8 +67,8 @@ export const projects = [
       },
     ],
     img: require("../assets/images/desa.PNG"),
-    link: "https://drive.google.com/file/d/1npEOuOhQh-1zRiLB9fFn-6ORTwd1gZkl/view",
-    code: "https://github.com/daniel-jebarson/EXPLOITER",
+    link: "https://github.com/Cindidev913/profil-desa",
+    code: "https://github.com/Cindidev913/profil-desa",
   },
   {
     title: "Cafe Cashier",
@@ -117,7 +117,7 @@ export const projects = [
       },
     ],
     img: require("../assets/images/lpseminar.PNG"),
-    link: "https://github.com/Cindidev913/seminar",
+    link: "https://seminarmotekar.000webhostapp.com/",
     code: "https://github.com/Cindidev913/seminar",
   },
 ];

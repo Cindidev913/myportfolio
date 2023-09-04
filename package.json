@@ -1,6 +1,6 @@
 {
-  "homepage": "https://daniel-jebarson.github.io",
-  "name": "portfolio",
+  "homepage": "https://github.com/Cindidev913/myportfolio",
+  "name": "portofolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +15,6 @@
     "@vercel/analytics": "^1.0.1",
     "aos": "^2.3.4",
     "emailjs-com": "^3.2.0",
-    "gh-pages": "^5.0.0",
     "grapheme-splitter": "^1.0.4",
     "material-icons": "^1.13.6",
     "react": "^18.2.0",
@@ -28,12 +27,13 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "dev": "serve -s build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
+    
   },
   "eslintConfig": {
     "extends": [
@@ -54,6 +54,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.0.0",
     "tailwindcss": "^3.3.2"
   }
 }
